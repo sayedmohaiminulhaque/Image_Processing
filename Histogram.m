@@ -18,4 +18,4 @@ end
 
 imshow(img);
 %imhist(img);
-
+bar(M(2,:));
